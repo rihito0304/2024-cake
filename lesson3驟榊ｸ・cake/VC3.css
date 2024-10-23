@@ -11,4 +11,10 @@ img{
        background-color: #88fc04;
        float:left;
        width:50%;
+    }
+
+.wrap{
+    background-color: #037386;
+    display:flex;
+    flex-wrap:wrap;
 }
