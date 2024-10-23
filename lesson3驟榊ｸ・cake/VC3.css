@@ -1,5 +1,5 @@
 img{
-    width: 100%;
+    width: 800%;
     margin: 20px 20px 20px 20px;
     }
 
@@ -19,7 +19,7 @@ h2{
 .cakes{
        background-color: #fce2c4;
        float:left;
-       width: 40%;
+       width: 50%;
     }
 
 .wrap{
